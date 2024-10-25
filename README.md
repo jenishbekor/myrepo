@@ -6,4 +6,4 @@ Lets discuss about files.
 
 # Image
 
-![Just any text.](list.svg)
+![Just any text.](list.png)
