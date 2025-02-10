@@ -6,4 +6,4 @@ Lets discuss about files.
 
 # Image
 
-![Just any text.](chair.jpg| width=100)
+![Just any text.](chair.jpg | width=100)
