@@ -6,4 +6,4 @@ Lets discuss about files.
 
 # Image
 
-![Just any text.](chair.jpg =100x)
+![Just any text.](chair.jpg)
